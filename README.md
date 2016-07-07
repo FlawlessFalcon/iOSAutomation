@@ -1,2 +1,0 @@
-# iOSAutomation
-iOS Automation
